@@ -1,0 +1,523 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Scotch antidote against the English infection of Arminianism Which little book may be (through Gods blessing) very useful to preserve those that are yet found in the faith, from the infection of Mr John Goodwin's great book. By Robert Bailie, minister of the Gospel at Glasgow.</title>
+            <author>Baillie, Robert, 1599-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 61 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77484</idno>
+            <idno type="STC">Wing B469</idno>
+            <idno type="STC">Thomason E1401_2</idno>
+            <idno type="STC">ESTC R209483</idno>
+            <idno type="EEBO-CITATION">99868359</idno>
+            <idno type="PROQUEST">99868359</idno>
+            <idno type="VID">169917</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169917)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 181:E1401[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Scotch antidote against the English infection of Arminianism Which little book may be (through Gods blessing) very useful to preserve those that are yet found in the faith, from the infection of Mr John Goodwin's great book. By Robert Bailie, minister of the Gospel at Glasgow.</title>
+                  <author>Baillie, Robert, 1599-1662.</author>
+               </titleStmt>
+               <extent>[4], 114 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Gellibrand, at the Ball in Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Goodwin, John. Apolytrosis apolytroseis.</note>
+                  <note>Running title reads: An antidote against Arminianisme.</note>
+                  <note>Annotation on Thomason copy: "June. 10.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Goodwin, John, 1594?-1665. --  Apolytrosis apolytroseis --  Early works to 1800.</term>
+               <term>Arminianism --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169917:1" rendition="simple:additions"/>
+            <p>A SCOTCH ANTIDOTE <hi>Againſt</hi> The Engliſh Infection OF ARMINIANISM.</p>
+            <p>Which <hi>little</hi> Book may be (through Gods bleſſing) very uſeful to preſerve thoſe that are yet <hi>ſound in the faith,</hi> from the Infection OF M<hi rend="sup">r</hi> JOHN GOODWIN'S <hi>Great</hi> Book.</p>
+            <p>BY ROBERT BAILIE, Miniſter of the Goſpel at <hi>Glaſgow.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Samuel Gellibrand,</hi> at the Ball in <hi>Paul's</hi> Church-yard. 1652.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169917:2"/>
+            <pb facs="tcp:169917:2"/>
+            <head>To the Aequitable READER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He ſhortneſſe of the follow<g ref="char:EOLhyphen"/>ing Treatiſe admits not long prefacing: It has been much wiſht &amp; long expected from the learned Divines of this land, that a plain &amp; ſhort Manual of the chief con<g ref="char:EOLhyphen"/>troverſies ſhould have been publiſhed, wherby the people might be forearmed
+<pb facs="tcp:169917:3"/>againſt the invaſion of ſe<g ref="char:EOLhyphen"/>ducing ſpirits which every where are but two fre<g ref="char:EOLhyphen"/>quent. Long ago two much ſtuffe of this kind is pro<g ref="char:EOLhyphen"/>vided for Scholers, Theſe have but too many and too big Volumes of controver<g ref="char:EOLhyphen"/>ſies always at their hand; but our people are not ſo furniſht either with ſword or buckler as need were, which makes them to their ſhame &amp; grief, when they run counter with adverſa<g ref="char:EOLhyphen"/>ries (which they cannot
+<pb facs="tcp:169917:3"/>chooſe but oft to do) lie o<g ref="char:EOLhyphen"/>pen to wounds: The chil<g ref="char:EOLhyphen"/>dren of this world are in this, as in many other things, wiſer than the children of light: the Jeſu<g ref="char:EOLhyphen"/>its let not their Proſelites have any lack of their <hi>Encheiridia,</hi> their <hi>Va<g ref="char:EOLhyphen"/>de mecum,</hi> their little pocket Books of contro<g ref="char:EOLhyphen"/>verſie, to enable them both to ſtrike and keep, when they meet with our people.</p>
+            <p>Theſe years bygone too much time hath been loſt
+<pb facs="tcp:169917:4"/>among us on Ceremonies and Diſciplinary Queſti<g ref="char:EOLhyphen"/>ons. It has bin the policy of Satan to hold us intent, &amp; buſy on theſe out-ſcon<g ref="char:EOLhyphen"/>ces, that ſo the main for<g ref="char:EOLhyphen"/>treſſes of Antichriſt ſhould ſtand ſafe without aſſault. Would to God that our too too long and hot skirmiſhes about purging of the ditches of Biſhops, and <hi>Ceremonies,</hi> had not caſt open at our backs the gates of our great Towers, and given oppor<g ref="char:EOLhyphen"/>tunity
+<pb facs="tcp:169917:4"/>to our Enemy to undermine the very foun<g ref="char:EOLhyphen"/>dations of our Church.</p>
+            <p>Of all the Errors which in too great a number do corrupt <hi>England</hi> this day, theſe which are called after the infamous name of <hi>Arminius,</hi> are the moſt prevalent. While therefore the Learned may be pleaſed to demit themſelves for the good of the people, while ſome gra<g ref="char:EOLhyphen"/>cious Divine may be mo<g ref="char:EOLhyphen"/>ved to take leiſure for the
+<pb facs="tcp:169917:5"/>publiſhing of ſome ſhort and plain Syſtem of all, or of the moſt material con<g ref="char:EOLhyphen"/>troverſies, it were good that ſome little thing were done in this beginning of our glorious Liberty from Oppreſsions, for the arm<g ref="char:EOLhyphen"/>ing of the godly againſt the errors of <hi>Arminius,</hi> which ſo malepertly theſe bygone years have been blown abroad, and the op<g ref="char:EOLhyphen"/>poſition thereto hath been ſo ſtrictly diſcharged, and ſo ſeverely puniſhed: while
+<pb facs="tcp:169917:5"/>a better comes, the ſubſe<g ref="char:EOLhyphen"/>quent Treatiſe will ſerve ſomewhat for that end. Of its worthlet every man pronounce according as he finds. In its firſt birth it was a Speech delivered upon a ſhort warning in the general Aſſembly of <hi>Glaſgow,</hi> and there not miſlik't. Since that time it hath not increaſed much in ſtature. If the feature of it pleaſe any intelligent eye, it is eaſie in a few nights for any to make the
+<pb facs="tcp:169917:6"/>members of it grow ſo great &amp; long as you will: but it is the Authors opi<g ref="char:EOLhyphen"/>nion, that treatiſes inten<g ref="char:EOLhyphen"/>ded to thefore-named ends are the more handſome &amp; ſerviceable, the more ſhort and ſimple they be; and the more unprofitable &amp; unpleaſant, the more ac<g ref="char:EOLhyphen"/>curate and long: Howe<g ref="char:EOLhyphen"/>ver, ſuch as it is, enjoy it who will, miſregard it who pleaſe.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="7" facs="tcp:169917:6"/>
+            <head>
+               <hi>An Antidote againſt</hi> AMINIANISM.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>Rmintus</hi> was a late Preacher of <hi>Holland,</hi>
+               <note place="margin">Who <hi>Ar<g ref="char:EOLhyphen"/>minius</hi> was</note> mi<g ref="char:EOLhyphen"/>niſter firſt at <hi>Amſterdam,</hi> and then pro<g ref="char:EOLhyphen"/>feſſor of Divinity at <hi>Lei<g ref="char:EOLhyphen"/>den,</hi> a man of very great in<g ref="char:EOLhyphen"/>gine; in his outward con<g ref="char:EOLhyphen"/>verſation almoſt unblame<g ref="char:EOLhyphen"/>able; but much given to Innovation and ſelf con<g ref="char:EOLhyphen"/>ceit. The Novelties which mainly he loved were di<g ref="char:EOLhyphen"/>vers errours of our old Country man <hi>Pelagius,</hi> which the Jeſilites in his
+<pb n="8" facs="tcp:169917:7"/>time had revived. After that the Spirit of God had baniſhed the Hereſies of <hi>Arius, Neſtorius, Madedoni<g ref="char:EOLhyphen"/>us,</hi> and <hi>Eutiches,</hi> which Sa<g ref="char:EOLhyphen"/>tan in their perſons had rai<g ref="char:EOLhyphen"/>ſed againſt the perſons of the Trinity, againſt the nature and perſon of Chriſt, <hi>Pelagius</hi> a Scotiſh man did oppoſe not the Nature, nor the Perſon; but the Grace of God: a<g ref="char:EOLhyphen"/>gainſt him the Lord raiſed <hi>Auguſtine,</hi> who by the force of Scripture beat the Heretick in all his er<g ref="char:EOLhyphen"/>rors, yet there were ſome relicts of that ſubtile Hereſie after <hi>Auguſtine</hi> death, which ſet up the
+<pb n="9" facs="tcp:169917:7"/>head both in the Eaſt<g ref="char:EOLhyphen"/>ern and Weſtern Chur<g ref="char:EOLhyphen"/>ches ſometimes more, ſometimes leſſe; In the days of <hi>Remigius</hi> and <hi>Hincmarus,</hi> great was the trouble that the <hi>Semipe<g ref="char:EOLhyphen"/>lagians</hi> made in <hi>Germany</hi> and <hi>France,</hi> as we ſee in the cauſe of <hi>Goteſchalcus,</hi> ſet downe by <hi>Gerhardus Voſsius,</hi> but much more honeſtly by Primate <hi>Vſher.</hi>
+            </p>
+            <p>From that time there was not much dinne a<g ref="char:EOLhyphen"/>bout theſe queſtions,
+<note place="margin">When hee came to be in<g ref="char:EOLhyphen"/>fected with errour.</note> till after the yeare 1590, when <hi>Molina</hi> a <hi>Spaniſh</hi> Ieſuit began to renew many of the <hi>Pelagian</hi>
+               <pb n="10" facs="tcp:169917:8"/>errors about Grace and Freewill, Election, and Reprobation, and ſuch heads.</p>
+            <p>Againſt him <hi>Alvarez</hi> a <hi>Dominican</hi> at <hi>Rome,</hi> did oppoſe at length: This fire betwixt theſe two Orders began to burn firſt in <hi>Spain,</hi> and then in Weſt <hi>Flanders:</hi> from <hi>Lo<g ref="char:EOLhyphen"/>van,</hi> the Ieſuit <hi>Leſsius</hi> blew over the reik to <hi>Amſterdam,</hi> where <hi>Ar<g ref="char:EOLhyphen"/>minius</hi> was Preacher, the flame burning in his wanton Engine, brake out firſt openly in a Treatiſe againſt <hi>Perkins</hi> golden Chain, thereaf<g ref="char:EOLhyphen"/>ter he did ſpread his er<g ref="char:EOLhyphen"/>rours
+<pb n="11" facs="tcp:169917:8"/>where ever hee might: Being called to the Vniverſitie of <hi>Lei<g ref="char:EOLhyphen"/>den</hi> to ſucced good <hi>Iu<g ref="char:EOLhyphen"/>nius,</hi> for ſometime hee was quiet, but at once with all diligence he in<g ref="char:EOLhyphen"/>fected not only the youth in the Univerſity, but by them very many Miniſters over all the Land.</p>
+            <p>His petulant wit was not content to broach theſe remaynders of Pelagianiſme which <hi>Molina</hi> and his follow<g ref="char:EOLhyphen"/>ers profeſſed, but beſide hee fell on many moe dangerous novations &amp; at laſt began to like
+<pb n="12" facs="tcp:169917:9"/>much of <hi>Vorſtius</hi> and <hi>Socinus</hi> tenets.</p>
+            <p>This fire in the <hi>Hol<g ref="char:EOLhyphen"/>land</hi> Church burnt bold ly in the time of the Truce with <hi>Spaine,</hi> and was likely to threaten their eſtate with ruine in the time of peace, more than the <hi>Spaniſh</hi> ſword had done in all their wars.</p>
+            <p>So long as <hi>Arminius</hi> lived there was no re<g ref="char:EOLhyphen"/>medy,
+<note place="margin">When <hi>Armi<g ref="char:EOLhyphen"/>nianiſme</hi> was cruſhed in <hi>Holland.</hi>
+               </note> when God had killed him, the evill grew no leſſe; ſome Stateſmen and Court Miniſters for their own ends did hold theſe er<g ref="char:EOLhyphen"/>rours on foot; the wel<g ref="char:EOLhyphen"/>minded
+<pb n="13" facs="tcp:169917:9"/>people cryed ſtil for a general Aſſem<g ref="char:EOLhyphen"/>bly as the only help of their Schiſmes: the <hi>Ar<g ref="char:EOLhyphen"/>minians</hi> by might and maine ſet themſelves a<g ref="char:EOLhyphen"/>gainſt the meeting of a Synod, as the certaine ruine of their Party; ſo long as their Patron <hi>Barnavelt</hi> lived, they got the Aſſembly ſhifted, but when that Traitors head was ſtricken off, &amp; King <hi>Iames</hi> our bleſſed Prince had adviſed of<g ref="char:EOLhyphen"/>ten the States, and halfe by threatnings com<g ref="char:EOLhyphen"/>manded them, at laſt a generall Aſſembly was called at <hi>Dort,</hi> not only
+<pb n="14" facs="tcp:169917:10"/>of Divines and ruling Elders from all the Provinciall Synods of the <hi>Netherlands,</hi> but al<g ref="char:EOLhyphen"/>moſt from the whole Reformed Churches; there the moſt excellent Synod being met that Chriſtendome had ſeen for ſome hundred years; the <hi>Arminian</hi> Queſtions were handled at leiſure from <hi>November</hi> to <hi>May,</hi> and all that was need<g ref="char:EOLhyphen"/>full, was cleerly deci<g ref="char:EOLhyphen"/>ded.</p>
+            <p>That labour was ſo bleſſed by God, that the Land which through the <hi>Arminian</hi> Schiſme and Errours was at the
+<pb n="15" facs="tcp:169917:10"/>point of ruine, ſince that time hath had peace from theſe turbulent Schiſmaticks.
+<note place="margin">When <hi>Armi<g ref="char:EOLhyphen"/>nianiſme</hi> did take root in <hi>Britain.</hi>
+               </note>
+            </p>
+            <p>But here the pity, <hi>Bri<g ref="char:EOLhyphen"/>tain</hi> whoſe waters main<g ref="char:EOLhyphen"/>ly had ſlakened that fire abroad, began at once to be ſcorched at home by ſome ſparks of that flame.</p>
+            <p>The hopes of the <hi>Ar<g ref="char:EOLhyphen"/>minians</hi> in <hi>England</hi> were but ſmall ſo long as K. <hi>James</hi> did live, for that good Prince both in word and writing did threaten to burne theſe Hereticks if any of them ſhould appeare in his Dominions; ſee his De<g ref="char:EOLhyphen"/>claration
+<pb n="16" facs="tcp:169917:11"/>againſt <hi>Vorſti<g ref="char:EOLhyphen"/>us:</hi> yea, ſo long as <hi>Abbot</hi> was in grace at Court, the <hi>Arminians</hi> kept a low ſayle, but after that his Succeſſor even in his owne time had come in favour, that unhappy Sect under the patro<g ref="char:EOLhyphen"/>nage of <hi>Mountagu</hi> and <hi>White's</hi> learning began to ſpread far and neare, yea, at laſt ſilence in a publike Edict was en<g ref="char:EOLhyphen"/>joyned to their oppo<g ref="char:EOLhyphen"/>ſers, and all favours con<g ref="char:EOLhyphen"/>ferred on thoſe who had skill and will to promote that Cauſe, &amp; many evident diſgraces poured on well deſer<g ref="char:EOLhyphen"/>ving
+<pb n="17" facs="tcp:169917:11"/>men for no other reaſon, but their <hi>Anti-Arminian</hi> ſpirit.</p>
+            <p>All this time our Church was free of theſe evils; but ſo ſoon as the advancers of Ar<g ref="char:EOLhyphen"/>minianiſme at the En<g ref="char:EOLhyphen"/>gliſh Court, began to intermeddle with the affaires of our King<g ref="char:EOLhyphen"/>dome, at once theſe men were eyed, who in<g ref="char:EOLhyphen"/>clined that way, prime places were put into their hands for no other vertue the World could diſcern in them, but their boldneſs to let out their inclination to<g ref="char:EOLhyphen"/>wards
+<pb n="18" facs="tcp:169917:12"/>the Arminian Er<g ref="char:EOLhyphen"/>rour.</p>
+            <p>This way of advance<g ref="char:EOLhyphen"/>ment being perceived, inco<g ref="char:cmbAbbrStroke">̄</g>tinent many among us ſet their hearts to<g ref="char:EOLhyphen"/>wards that art which was likelieſt in haſte to promote their fortunes,</p>
+            <p>It is to be remarked that the Arminian ſpi<g ref="char:EOLhyphen"/>rit in <hi>Holland</hi> leads men to hell another way then here in <hi>Britaine;</hi>
+               <note place="margin">The <hi>Britiſh Arminians</hi> de<g ref="char:EOLhyphen"/>cline to Pope<g ref="char:EOLhyphen"/>ry, but the <hi>Bel<g ref="char:EOLhyphen"/>gick</hi> to <hi>Socinia<g ref="char:EOLhyphen"/>niſme.</hi>
+               </note> there the Arminians with great boldneſſe running after <hi>Vorſtius</hi> &amp; <hi>Socinus</hi> with a marvel<g ref="char:EOLhyphen"/>lous petulancy fell to brangle the Trinitie of
+<pb n="19" facs="tcp:169917:12"/>the Divine perſons, yea, the ſimplicity of the Divine nature it ſelf.</p>
+            <p>But that Devill find<g ref="char:EOLhyphen"/>ing this his raſhneſſe to revive openly <hi>Manes</hi> &amp; <hi>Arrius,</hi> did make people abhorre him, and flee away, hee became more wary; ſo that among us hee lets theſe old con<g ref="char:EOLhyphen"/>demned Hereſies alone, and goes another way to work; Hee leads by a new method to the er<g ref="char:EOLhyphen"/>rours of Antichriſt; A <hi>Netherlandiſh Arminian</hi> will ſcorn the ſuperſtiti<g ref="char:EOLhyphen"/>ons, the Idolatries, the Tyrannies of the <hi>Romiſh</hi>
+               <pb n="20" facs="tcp:169917:13"/>Church, but is much in<g ref="char:EOLhyphen"/>clined after <hi>Vorſtius</hi> and <hi>Socinus,</hi> under the pre<g ref="char:EOLhyphen"/>text of Liberty to run licentiouſly into Here<g ref="char:EOLhyphen"/>ſies condemned in the firſt Oecumenick Coun cels: On the contrary, a <hi>Britiſh Arminian</hi> with the Ancients will abhor the Extravagancies of <hi>Vorſtius</hi> and <hi>Socinus,</hi> yet their heart is hot and in<g ref="char:EOLhyphen"/>flamed after the abomi<g ref="char:EOLhyphen"/>nations of <hi>Rome:</hi> God who put Confuſion in <hi>Babel,</hi> hath divided Sa<g ref="char:EOLhyphen"/>tans Kingdome againſt it ſelfe, elſe this ſubtill Devill might have in<g ref="char:EOLhyphen"/>dangered
+<pb n="21" facs="tcp:169917:13"/>the ſafety of the whole Reformed Church; But while in <hi>Holland</hi> the horn of Ar<g ref="char:EOLhyphen"/>minianiſm is now broke<g ref="char:cmbAbbrStroke">̄</g> out in his front long and great, and in <hi>England</hi> the horne of Popery, wee truſt theſe two long black ugly hornes ſhall make that evill ſpirit both here and there ſo well knowne, that hee ſhall not be able to doe ſo much harme any where as once was fea<g ref="char:EOLhyphen"/>red from him; however the great Hammer that brake the necke of the beaſt over Sea, was that
+<pb n="22" facs="tcp:169917:14"/>Nationall Synod and the mayn hope we have to get it maſtered here at this time is by the hand of our God in this preſent Aſſembly.</p>
+            <p>For the ſtory I will ſay no more but come to the Doctrines;
+<note place="margin">The five <hi>Armi<g ref="char:EOLhyphen"/>nian</hi> Articles.</note> The multitude of their ſin<g ref="char:EOLhyphen"/>gularities was reduced at their own deſire, both in the Conference at <hi>Hage,</hi> and Synod of <hi>Dort</hi> to five Articles, or rather foure, for Grace and Freewill are com<g ref="char:EOLhyphen"/>monly diſputed toge<g ref="char:EOLhyphen"/>ther.</p>
+            <pb n="23" facs="tcp:169917:14"/>
+            <p>The firſt Article con<g ref="char:EOLhyphen"/>cerns Predeſtination,
+<note place="margin">The ſtate of the queſtion in the firſt Ar<g ref="char:EOLhyphen"/>ticle.</note> the next the Death of Chriſt, the third and fourth Grace and Free<g ref="char:EOLhyphen"/>will, the fifth Perſeve<g ref="char:EOLhyphen"/>rance, wee may adde Ju<g ref="char:EOLhyphen"/>ſtification as a ſixth, whereon both theſe o<g ref="char:EOLhyphen"/>ver Sea, and their fol<g ref="char:EOLhyphen"/>lowers among us, run as mad as on any of the former.</p>
+            <p>Concerning Electi<g ref="char:EOLhyphen"/>on, the firſt and chiefe part of Predeſtination, they teach, that it is po<g ref="char:EOLhyphen"/>ſterior to Faith, Works, and Perſeverance; <hi>Ar<g ref="char:EOLhyphen"/>minius</hi> at the beginning
+<pb n="24" facs="tcp:169917:15"/>made faith alone previ<g ref="char:EOLhyphen"/>ous to Election, but long ſince his followers, and our men alſo joyne works, yea, perſeve<g ref="char:EOLhyphen"/>rance to the end in faith, and works; as if God firſt did foreſee by his eternal Preſcience, ſome men of their own Free<g ref="char:EOLhyphen"/>will aſſenting to his Cal in time, believing and going on to the end in faith and good works, and after this foreſight, did paſſe his Decree of Election to glory upon theſe men clothed with the named qualities.</p>
+            <p>But wee teach that
+<pb n="25" facs="tcp:169917:15"/>Faith, Works, and Per<g ref="char:EOLhyphen"/>ſeverance are poſterior to Election; that this is the cauſe, root, fountain, whence all grace in us does flow; that our Ele<g ref="char:EOLhyphen"/>ction hath no Antece<g ref="char:EOLhyphen"/>dent cauſe, condition, or good quality on our part, but flows meerly from Gods good plea<g ref="char:EOLhyphen"/>ſure, and mercy look<g ref="char:EOLhyphen"/>ing upon us, lying in our bloud, corrupted with originall ſin, and in that caſe chooſing us of his free mercy to be mem<g ref="char:EOLhyphen"/>bers of his Son, to who<g ref="char:cmbAbbrStroke">̄</g> hee will give grace and glory, though others as
+<pb n="26" facs="tcp:169917:16"/>good and nothing worſe then wee are permitted to lie ſtill in the maſſe of corruption for the glory of his mercy to us and juſtice towards them, without any ground of gloriation to the one, or complaint to the other, as if any wrong were done them, when they are paſt by.</p>
+            <p>This our Doctrine of Election it is cleer from Scripture,
+<note place="margin">Our firſt argu<g ref="char:EOLhyphen"/>ment for abſo<g ref="char:EOLhyphen"/>lute election is from <hi>Eph.</hi> 1.3.</note> 1. ſee <hi>Epheſ.</hi> 1.3. <hi>[Bleſſed be God, who hath bleſſed us with all ſpi<g ref="char:EOLhyphen"/>rituall bleſſings in Chriſt, according as hee hath cho<g ref="char:EOLhyphen"/>ſen us in him, that we ſhould
+<pb n="27" facs="tcp:169917:16"/>be holy and blameleſſe be<g ref="char:EOLhyphen"/>fore him in love, having predeſtinated us to the adop<g ref="char:EOLhyphen"/>tion of children, according to the good pleaſure of his will]</hi>
+            </p>
+            <p>Here wee are choſen to be holy and blame<g ref="char:EOLhyphen"/>leſſe, not becauſe wee were holy, therefore we were choſen, Holineſſe is made poſteriour to our Election; Now Faith, Perſeverance, Charity, and ſuch gra<g ref="char:EOLhyphen"/>ces are all parts of ho<g ref="char:EOLhyphen"/>lineſſe, are all fruits of the holy Spirit. Here alſo all ſpirituall bleſ<g ref="char:EOLhyphen"/>ſings for which God is
+<pb n="28" facs="tcp:169917:17"/>to bee praiſed, flows from this originall; Ele<g ref="char:EOLhyphen"/>ction is the rule accord<g ref="char:EOLhyphen"/>ing to which God di<g ref="char:EOLhyphen"/>ſtributes theſe graces.</p>
+            <p>Adoption alſo is made a fruit of Election, yea, the only reaſon of this Election is made Gods good pleaſure. By this place of Scripture <hi>Au<g ref="char:EOLhyphen"/>guſtine</hi> beat downe the <hi>Pelagians,</hi> who taught an Election of foreſeene works. [
+<note n="a" place="margin">Praedeſt. c. 8. <hi>Praeſciebat ergo ait</hi> Pelagianus <hi>qui futuri erant ſancti &amp; immaculati per liberum vo<g ref="char:EOLhyphen"/>luntatis arbitrium, &amp; ideo eos ante mundi Conſtitutio<g ref="char:EOLhyphen"/>nem elegit, quia tales futuros praeſcivit.</hi>
+               </note> 
+               <hi>God foreſaw</hi>
+               <pb n="29" facs="tcp:169917:17"/>(ſaith the <hi>Pelagian) who ſhould be holy &amp; unblame<g ref="char:EOLhyphen"/>able by their own freewill, and therefore hee did elect them before the foundation of the World, becauſe hee foreſaw they would be ſuch.]</hi> What anſwers hee to this <hi>Arminian</hi> Objecti<g ref="char:EOLhyphen"/>on in the mouth of the <hi>Pelagians?</hi> [
+<note n="b" place="margin">Intueamur A<g ref="char:EOLhyphen"/>poſtoli verba at<g ref="char:EOLhyphen"/>que videamus utrum propterea nos clegit quia ſancti futuri e<g ref="char:EOLhyphen"/>ramus, an ut eſſe<g ref="char:EOLhyphen"/>mus, benedictus, inquit Deus, &amp;c non quia futuri eramus ſed ut eſ<g ref="char:EOLhyphen"/>ſemus, nempe cer<g ref="char:EOLhyphen"/>tum eſt, nempe manifeſtum est, ideo quippe tales eramus futuri quia elegit ipſe praedeſtinans ut per gratiam ejus tales eſſemus, cernitis proculdubio, cernitis quanta manife<g ref="char:EOLhyphen"/>ſtatione Apoſtolici eloquii defondatur haec gratia, contra quam merita extollunt humana, tanquam homo aliquid det Deo &amp; retribuatur ei.</note> 
+               <hi>Let us behold the Apoſtles words, and ſee whether therefore hee did elect us becauſe wee were to be holy, or that wee might be ſuch: Bleſſed ſays the
+<pb n="30" facs="tcp:169917:18"/>Apoſtle, be God who has choſen us not becauſe wee were to be ſuch, but that we might bee ſuch: Why the matter is certain, it is ma<g ref="char:EOLhyphen"/>nifeſt, for we were to be ſuch becauſe God predeſtinating did chooſe us that wee by his grace might become ſuch: you ſee doubtleſſe, you ſee with what evidence of Apo<g ref="char:EOLhyphen"/>ſtolike utterance, this grace is defended, againſt which humane merits extols it ſelfe, as if man did give any thing to God, and it were rendred to him.</hi>] So does the Father con<g ref="char:EOLhyphen"/>vince the <hi>Pelagians</hi> from theſe ſame words; hee
+<pb n="31" facs="tcp:169917:18"/>alſo cloſes the mouthes of the <hi>Semipelagians</hi> who taught that albeit works and holineffe was not prior to Election, yet Faith or at leaſt ſome beginnings of faith be<g ref="char:EOLhyphen"/>hoved on our part to go before, to theſe thus he ſpeaks, [
+<note n="c" place="margin">De dono Perſeverantiae cap. 7. <hi>Audiant &amp; ipſi in hoc teſtimonio (prae<g ref="char:EOLhyphen"/>diſtinariſecundu<g ref="char:cmbAbbrStroke">̄</g> propoſitum ejus qui univerſa ape<g ref="char:EOLhyphen"/>ratur) ipſe &amp; ut inerpiamus credere operatur qui univerſa o<g ref="char:EOLhyphen"/>peratur, nec fi<g ref="char:EOLhyphen"/>des ipſa praecedit, non enim quia credimus ſed ut cre<g ref="char:EOLhyphen"/>damus, elegit nos.</hi>
+               </note> 
+               <hi>Let even theſe heare in this paſſage (pre<g ref="char:EOLhyphen"/>deſtinated according to his purpoſe, who works all things) hee that works all things, works alſo that wee begin to believe, neither doth faith it ſelfe goe before
+<pb n="32" facs="tcp:169917:19"/>his worke, for he has choſen us that wee might believe, not becauſe we did believe</hi>] Againſt both the whole and half <hi>Pelagians,</hi> ſo he concludes triumphant<g ref="char:EOLhyphen"/>ly, [
+<note n="d" place="margin">
+                  <p>
+                     <hi>Contra iſtam veritatis tam claram tubam quis hom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſo<g ref="char:EOLhyphen"/>briae vigilantiſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ſidei voces ullas admittat huma<g ref="char:EOLhyphen"/>nas.</hi>
+                  </p>
+                  <p>Our ſecond argument from <hi>Rom.</hi> 11.5.</p>
+               </note> 
+               <hi>Againſt ſo cleare a trumpet of Truth, what perſon of ſober and watch<g ref="char:EOLhyphen"/>full faith will admit the contrary voice of any man.</hi>]</p>
+            <p>Another Scripture, <hi>Rom.</hi> 11.5. Even ſo alſo at this preſent time there is a remnant according to the election of grace, and if of grace it is no more of works other<g ref="char:EOLhyphen"/>wiſe grace is no more grace.</p>
+            <pb n="33" facs="tcp:169917:19"/>
+            <p>Here the Reaſon is given why among the misbelieving obſtinate wicked <hi>Jews,</hi> there was a few remnant who did believe and were ſaved: the grace, faith, ſalvati<g ref="char:EOLhyphen"/>on of this Remnant is aſcribed to their Electi<g ref="char:EOLhyphen"/>on as the Cauſe, &amp; this Election is affirmed to come alone of Gods Grace, and denied to have proceeded of any of their works, yea, theſe things are not ſim<g ref="char:EOLhyphen"/>ply affirmed, that the grace and ſalvation of the remnant came from Election, that this Ele<g ref="char:EOLhyphen"/>ction
+<pb n="34" facs="tcp:169917:20"/>was of grace that it was not of works, but farther works and grace in this matter of Electi<g ref="char:EOLhyphen"/>on are declared to be in<g ref="char:EOLhyphen"/>co<g ref="char:cmbAbbrStroke">̄</g>patible, ſo that thoſe who make our Electi<g ref="char:EOLhyphen"/>on to depend on works, or to be poſterior in Gods mind to his fore<g ref="char:EOLhyphen"/>knowledge of our works, ſay what they will, they are enemies of the grace of God.</p>
+            <p>This place is ſo cleer, that <hi>Arminius</hi> ſo long as hee lived durſt never a<g ref="char:EOLhyphen"/>ſcribe Election to good works as his followers now do, yea, the <hi>Luthe<g ref="char:EOLhyphen"/>rans</hi>
+               <pb n="35" facs="tcp:169917:20"/>to this day dare not doe it: but the place re<g ref="char:EOLhyphen"/>futes even that which they ſay, that Election is of Faith albeit not of works clearly enough, eſpecially as <hi>Arminius</hi> expounded Faith, for hee made Election and Juſtification to depend on Faith, not as it is an inſtrument applying Chriſt, but as it is an E<g ref="char:EOLhyphen"/>vangelicall work which God hath appointed under the Goſpell to be a ſaving quality of it ſelfe, as perfect obedi<g ref="char:EOLhyphen"/>ence ſhould have beene under the Law. In this
+<pb n="36" facs="tcp:169917:21"/>ſenſe Faith is a true worke, and who denyes Election to be of works denyes it as well to be of Faith, which is a work. But take Faith as you will, this place re<g ref="char:EOLhyphen"/>moves it from Election, for it aſcribes Election to Gods grace alone ex<g ref="char:EOLhyphen"/>cluding Faith, works, or what ever is in us: The clearneſſe of this place changed <hi>Auguſtine</hi> his minde, and delivered him from that <hi>Lutheran</hi> errour, wherein long he lay, believing Election to have beene of Faith, albeit not of works.</p>
+            <pb n="37" facs="tcp:169917:21"/>
+            <p>[
+<note n="e" place="margin">
+                  <hi>Ad hoc perduxi ratiocinationem ut dicerem non ergo elegit Deus opera cujuſquam in praeſcient<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a ſed fidem in prae<g ref="char:EOLhyphen"/>ſcientia ele<g ref="char:EOLhyphen"/>git, ut quem ſibi crediturum eſſe praeſciret ipſum eligeret, ſed non<g ref="char:EOLhyphen"/>dum diligentius quaeſieram, nec adhuc invenera<g ref="char:cmbAbbrStroke">̄</g> qualis ſit Electio gratiae de qua Apoſtolus.</hi> Our third ar<g ref="char:EOLhyphen"/>gument from <hi>Rom.</hi> 8.28.</note> 
+               <hi>This was the iſſue of my argumentation that I ſaid, God has not choſen any mans works in his fore<g ref="char:EOLhyphen"/>knolwedge, but hee has choſen faith in his fore<g ref="char:EOLhyphen"/>knowledge, but I had not at that time diligently enough enquired, neither had I yet found what was that E<g ref="char:EOLhyphen"/>lection of Grace, of which the Apoſtle ſpake.</hi>
+            </p>
+            <p>A third Scripture is, <hi>Rom</hi> 8.28. <hi>Whom hee did predeſtinate, them hee alſo called, and whom hee, &amp;c.</hi> Here Election is made prior to calling and Ju<g ref="char:EOLhyphen"/>ſtification, as they to glorificatio<g ref="char:cmbAbbrStroke">̄</g>, much more
+<pb n="38" facs="tcp:169917:22"/>to faith, works, perſeve<g ref="char:EOLhyphen"/>rance which are all po<g ref="char:EOLhyphen"/>ſteriour to calling, wee muſt firſt bee Juſtified before we can perſevere to the end, we muſt firſt be called by the Word &amp; Spirit before we can believe. Faith then, and works and perſeverance are poſterior to effectu<g ref="char:EOLhyphen"/>al vocation, much more to Election, which in this Scripture is ſet be<g ref="char:EOLhyphen"/>fore vocation it ſelfe, yea, before all the con<g ref="char:EOLhyphen"/>ſequences and effects of vocation.</p>
+            <p>The <hi>Arminians</hi> can<g ref="char:EOLhyphen"/>not
+<pb n="39" facs="tcp:169917:22"/>get away from the grip of this place, but by wreſting of it pitti<g ref="char:EOLhyphen"/>fully, both at <hi>Hage</hi> Co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ference and in the Sy<g ref="char:EOLhyphen"/>nod, and all their poſte<g ref="char:EOLhyphen"/>riour writs, they with a ſtrange impudence a<g ref="char:EOLhyphen"/>vow that Predeſtinati<g ref="char:EOLhyphen"/>on, Vocation, Juſtificati<g ref="char:EOLhyphen"/>on in this place is no wayes relative either to grace or glory, but only to the croſſe and afflicti<g ref="char:EOLhyphen"/>on: of all the malepert Wreſters of Scriptures that live this day, the Remonſtrants are the chief. This preſent ſub<g ref="char:EOLhyphen"/>terfuge is <hi>Socinus</hi> his In<g ref="char:EOLhyphen"/>vention,
+<pb n="40" facs="tcp:169917:23"/>a wicked Here<g ref="char:EOLhyphen"/>tick, who denyes the merit, the power, and the true ſatisfactions of Chriſts death &amp; bloud, and ſo indeed hee hath reaſon if his grounds be true; For with <hi>Arrius</hi> he ſpoyls Chriſt of his Godhead, which if hee did want, his bloud and death could not be ſa<g ref="char:EOLhyphen"/>tisfactory for any one ſin, yet this moſt perni<g ref="char:EOLhyphen"/>tious heretick, the <hi>Ar<g ref="char:EOLhyphen"/>minians</hi> think no ſhame to follow, in wreſting the preſent Scripture, but to little purpoſe, for the analogie of the
+<pb n="41" facs="tcp:169917:23"/>whole Scripture, the ſcope of this Text will not let them expound Predeſtination, Calling, and Juſtification as <hi>Soci<g ref="char:EOLhyphen"/>nus</hi> would, if we admit in this place three of their greateſt friends, &amp; of our greateſt foes to be Judges, <hi>Pelagius, Ar<g ref="char:EOLhyphen"/>minius, Molina.</hi> From them all wee have teſti<g ref="char:EOLhyphen"/>monies that this place cannot admit <hi>Socinus</hi> in<g ref="char:EOLhyphen"/>terpretation, but I muſt haſte.</p>
+            <p>A fourth Scripture is,
+<note place="margin">Our fourth ar<g ref="char:EOLhyphen"/>gument from <hi>Rom.</hi> 9.11.</note> 
+               <hi>Rom.</hi> 9.11. <hi>For the Chil<g ref="char:EOLhyphen"/>dren being not yet born, nei<g ref="char:EOLhyphen"/>ther yet having done any
+<pb n="42" facs="tcp:169917:24"/>good or evill that the pur<g ref="char:EOLhyphen"/>poſe of God according to election might ſtand, not of works but of him that cal<g ref="char:EOLhyphen"/>leth, &amp;c.</hi>
+            </p>
+            <p>The purpoſe of God according to Election is underſtood here of Gods Eternall Prede<g ref="char:EOLhyphen"/>ſtination as <hi>Pelagius</hi> and <hi>Arminius</hi> both in their Commentaries on the place confeſſe, this Ele<g ref="char:EOLhyphen"/>ction is aſcribed only to God who calls, all works are excluded be<g ref="char:EOLhyphen"/>cauſe they were none, there could be none, the perſons not yet being borne, our Adverſaries
+<pb n="43" facs="tcp:169917:24"/>run here two divers ways from this text.</p>
+            <p>
+               <hi>Spalato</hi> underſtands works as exiſting not as future, ſaying, that <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> was elected not for any works which hee had done, but for thoſe which hee was to doe, which was before God in his preſcience.</p>
+            <p>This <hi>Pelagian</hi> ſubter<g ref="char:EOLhyphen"/>fuge <hi>Auguſtine</hi> treads downe in the firſt birth: [
+<note n="f" place="margin">
+                  <hi>Veſtrae ealigi<g ref="char:EOLhyphen"/>nis latebra prop<g ref="char:EOLhyphen"/>ter quod profecto â ſipitis, quia dicente veritate non ex operibus ſed ex vocante, vos dicitis ex futuris operibus quae Deus illum facturum eſſe praeſciebat</hi> Iacobum <hi>eſſe dilectum atque ita contradicitis Apoſtolo dicenti non ex praeſentibus operibus ſid ex futuris.</hi>
+               </note> 
+               <hi>This is the lurking hole
+<pb n="44" facs="tcp:169917:25"/>of your darknes, wherefore truly you erre, for the truth ſaying not of works, but of him that calleth, you ſay,</hi> Jacob <hi>was loved for the works which God foreſaw he was to doe, and ſo you con<g ref="char:EOLhyphen"/>tradict the Apoſtle ſaying, not of works, as if he could not have ſaid, not of works preſent, but for works to come.]</hi>
+            </p>
+            <p>
+               <hi>Arminius</hi> flies another way, granting that <hi>Ja<g ref="char:EOLhyphen"/>cobs</hi> Election was not of works, yet avowing it was of faith, this hole <hi>Auguſtine</hi> ſtopped long agoe, when the <hi>Semipe<g ref="char:EOLhyphen"/>lagians</hi> would have been
+<pb n="45" facs="tcp:169917:25"/>at it,
+<note n="g" place="margin">Numquid di<g ref="char:EOLhyphen"/>xit non ex operi<g ref="char:EOLhyphen"/>bus ſed ex cre<g ref="char:EOLhyphen"/>dente, prorſus etiam hoc abſtu<g ref="char:EOLhyphen"/>lit homini ut to<g ref="char:EOLhyphen"/>tum daret Deo, dicens ſed ex vocante, non quacunque vo<g ref="char:EOLhyphen"/>catione, ſed qua vocatione fit credens.</note> 
+               <hi>[Did the Apoſtle ſay not of works, but of him that believeth, even this alſo did the Apoſtle take from man that hee might give all to God, ſaying but of him that calleth, not with every call, but by ſuch a call wherewith wee are made to believe.]</hi>
+            </p>
+            <p>One other Scripture,
+<note place="margin">Our fift argu<g ref="char:EOLhyphen"/>ment from <hi>Acts</hi> 13.48.</note> Acts 13.48. <hi>As many as were ordained to life eter<g ref="char:EOLhyphen"/>nall believed:</hi> Gods Or<g ref="char:EOLhyphen"/>dination to life eternall goes before faith: be<g ref="char:EOLhyphen"/>liefe is here an effect a<g ref="char:EOLhyphen"/>ſcribed to Election, as the cauſe whence it comes. To flie this Ar<g ref="char:EOLhyphen"/>gument,
+<pb n="46" facs="tcp:169917:26"/>the <hi>Aeminians</hi> follow <hi>Socinus</hi> to a worſe errour then they would eſchew, they ex<g ref="char:EOLhyphen"/>pound, <hi>ordained to eternall life,</hi> thoſe who before all faith and calling by their own free wil were fitted and diſpoſed for faith and ſalvation: This is ſuch an high degree of <hi>Pelagianiſme</hi> that the <hi>Lutherans</hi> and Papiſts al<g ref="char:EOLhyphen"/>ſo, for the moſt part do abhor it.</p>
+            <div n="2" type="article">
+               <head>Second article ſtated.</head>
+               <p>IN the ſecond Article of Redemption they
+<note place="margin">Second Article ſtated.</note>
+                  <pb n="47" facs="tcp:169917:26"/>teach that Chriſt by his death intended the uni<g ref="char:EOLhyphen"/>verſall Redemption of all men without diſtin<g ref="char:EOLhyphen"/>ction of Elect and Re<g ref="char:EOLhyphen"/>probate, that hee by his death did actually im<g ref="char:EOLhyphen"/>petrate to all the favour and grace of God, that the application of the graces impetrated de<g ref="char:EOLhyphen"/>pends alone on the free<g ref="char:EOLhyphen"/>will of man, ſome ac<g ref="char:EOLhyphen"/>cording to their Liberty making uſe of that pur<g ref="char:EOLhyphen"/>chaſed gift, Others to whom that grace and ſalvation was alike pur<g ref="char:EOLhyphen"/>chaſed and intended on Gods part by their own
+<pb n="48" facs="tcp:169917:27"/>neglect and contempt, according to the ſame liberty of their will re<g ref="char:EOLhyphen"/>jecting it.</p>
+               <p>We teach that Chriſt did give his life and bloud alone for thoſe who get good by it, on<g ref="char:EOLhyphen"/>ly for the faithfull, even the Elect his own mem<g ref="char:EOLhyphen"/>bers.</p>
+               <p>Horrible abſurdities follow on the <hi>Arminian</hi> Tenet,
+<note place="margin">Abſurdities conſequent to the <hi>Arminian</hi> tenet.</note> ſome whereof they acknowledge, and others are bound on their back by inevitable conſequences, to wit, that the fruit of Chriſts death depends abſolute<g ref="char:EOLhyphen"/>ly
+<pb n="49" facs="tcp:169917:27"/>upon the contingent aſſent of mans free will, that notwithſtanding his death it was poſsible and very contingent, that all men had periſh<g ref="char:EOLhyphen"/>ed, that no ſoul had bin freed from hell by his bloud, that God ſhould never have had any Church at all, that now by the vertue of his death, true grace is gi<g ref="char:EOLhyphen"/>ven to all, that all Pa<g ref="char:EOLhyphen"/>gans as well under the Law as Goſpell, who never heard of Scrip<g ref="char:EOLhyphen"/>ture, are truly reconciled to God by his death, that all Infants even of
+<pb n="50" facs="tcp:169917:28"/>Pagans are ſaved by Chriſt, who die before the years of diſcretion, That in no man is any original ſinne, but every one when hee is born is put in the ſtate of inno<g ref="char:EOLhyphen"/>cency, that Baptiſme is not neceſſay, for no ſin is therein remitted be<g ref="char:EOLhyphen"/>cauſe there is none then to be remitted.</p>
+               <p>But how ever ſee how our doctrine is groun<g ref="char:EOLhyphen"/>ded on Scripture,
+<note place="margin">Our firſt ar<g ref="char:EOLhyphen"/>gument that Chriſt died only for the Elect from <hi>Iohn</hi> 17.9.</note> 
+                  <hi>Iohn</hi> 17.9. <hi>I pray for them, I pray not for the world, but for thoſe thou haſt given me out of the world, for they
+<pb n="51" facs="tcp:169917:28"/>are thine:</hi> Chriſt had no intention to give his life for them for whom hee avows, hee would not pray, at that ſame time when hee was going to die; ſhall he give his life for thoſe for whom hee would not open his mouth to pray; for his own only, for his Fa<g ref="char:EOLhyphen"/>thers proper ones, who are given over and re<g ref="char:EOLhyphen"/>commended to him, for theſe only and not the World hee avows, hee does then pray.</p>
+               <p>Another, <hi>Epheſ.</hi> 5.24.
+<note place="margin">Our ſecond ar<g ref="char:EOLhyphen"/>gument from</note>
+                  <pb n="52" facs="tcp:169917:29"/>
+                  <hi>Chriſt is the head of the Church,</hi>
+                  <note place="margin">
+                     <hi>Epheſ</hi> 5.24.</note> 
+                  <hi>and a Saviour of the body. Chriſt alſo hath loved his Church, and gave himſelf for it, that he might ſanctifie and cleanſe it, and preſent it to himſelfe a glo<g ref="char:EOLhyphen"/>rious Church:</hi> Chriſt here gives himſelfe to death, not for all but for the Church only, he is a Sa<g ref="char:EOLhyphen"/>viour only of the body of theſe whom hee loves as his ſpouſe, whom he ſanctifies and preſents to God one day glorious without ſpot; ſuch are not the world of the damned.</p>
+               <pb n="53" facs="tcp:169917:29"/>
+               <p>A third Scripture,
+<note place="margin">Our third ar<g ref="char:EOLhyphen"/>gument from <hi>John</hi> 10.14.</note> 
+                  <hi>Iohn</hi> 10.14. <hi>I am the good ſhepheard and know the ſheep, and am knowne of mine, and lay downe my life for my ſheep:</hi> for whom hath Chriſt laid downe his life? Only for his ſheep, for thoſe that are his, for thoſe that know him as their ſhepheard, of whom he taketh no<g ref="char:EOLhyphen"/>tice as of his ſheep, but for the Goates of the world whom he knows not, over whom hee ne<g ref="char:EOLhyphen"/>ver bare rule, who never were in his fold, hee
+<pb n="54" facs="tcp:169917:30"/>layes not downe his life.</p>
+               <p>A fourth Scripture,
+<note place="margin">Our fourth from <hi>Ioh.</hi> 15.13</note> 
+                  <hi>Iohn</hi> 15.23. <hi>Greater love than this, hath no man, that a man ſhould lay downe his life for his friend:</hi> Chriſt lays downe his life for his friends, not for thoſe who live and die ſtran<g ref="char:EOLhyphen"/>gers &amp; enemies to him; for whom hee dies, to them hee ſhews the higheſt degree of love, but to numbers of the Reprobates, hee never ſends his Word, much leſſe his ſaving grace; how then have they the fruit of his greateſt af<g ref="char:EOLhyphen"/>fection,
+<pb n="55" facs="tcp:169917:30"/>even to die for them.</p>
+               <p>See alſo that of the 53 of <hi>Iſaiah:</hi>
+                  <note place="margin">Our fift ar<g ref="char:EOLhyphen"/>gument from <hi>Eſay</hi> 53. <hi>&amp;c.</hi>
+                  </note> 
+                  <hi>By his ſtripes are we healed,</hi> and that of the Apoſtle, <hi>He was made ſin for us, that wee might be made the righteouſneſſe of God in him;</hi> thoſe for whom Chriſt was ſlain, are healed by his ſtripes, are made righteous and abſolved from ſin by his bloud, which hee as their pledge ſhed for them: It is the juſtice of God, that for whoſe ſin he hath received an infi<g ref="char:EOLhyphen"/>nite ſatisfaction, To theſe ſhould not be im<g ref="char:EOLhyphen"/>puted
+<pb n="56" facs="tcp:169917:31"/>their ſins for a ſe<g ref="char:EOLhyphen"/>cond ſatisfaction in their own eternall torments, but ſo it is, that num<g ref="char:EOLhyphen"/>bers of people are ne<g ref="char:EOLhyphen"/>ver freed from their ſin, never healed but periſh.</p>
+               <p>Againſt all this their prime Objection,
+<note place="margin">The <hi>Arminian</hi> objection an<g ref="char:EOLhyphen"/>ſwered.</note> in theſe Scriptures where<g ref="char:EOLhyphen"/>in Chriſt is ſaid to have <hi>died for all,</hi> the Anſwer is eaſie, that no man can deny but divers Scrip<g ref="char:EOLhyphen"/>tures which are concei<g ref="char:EOLhyphen"/>ved in univerſall terms, muſt bee expounded with reſtrictions, for ex<g ref="char:EOLhyphen"/>ample <hi>Chriſt is all in all,</hi>
+                  <pb n="57" facs="tcp:169917:31"/>when <hi>I am riſen I will draw all men to mee, I will poure my ſpirit on all fleſh, they ſhall be all taught of God,</hi> will any man have theſe univerſall Scrip<g ref="char:EOLhyphen"/>tures abſolute and illi<g ref="char:EOLhyphen"/>mited; So doth <hi>Augu<g ref="char:EOLhyphen"/>ſtine</hi> anſwer and beat off the <hi>Pelagians</hi> when they preſs theſe Scriptures of Chriſts dying for all &amp; every one; his words I paſſe for the time; when the <hi>Semipelagians</hi> reſted not content with his Anſwers to them he replyes, <hi>de Correp. &amp; Gratia, c.</hi> 14. in theſe words well worthy the
+<pb n="58" facs="tcp:169917:32"/>reciting,
+<note place="margin">Omnes homines, omne hominum genus intelligi<g ref="char:EOLhyphen"/>mus per quaſ<g ref="char:EOLhyphen"/>cunque differen<g ref="char:EOLhyphen"/>tias distributum, Reges privatos, nobiles ignobiles, ſublimes humi<g ref="char:EOLhyphen"/>les, doctos indo<g ref="char:EOLhyphen"/>ctos, integri cor<g ref="char:EOLhyphen"/>poris debiles, in<g ref="char:EOLhyphen"/>genioſos tardi<g ref="char:EOLhyphen"/>cordes fatuos, di<g ref="char:EOLhyphen"/>vites, pauperes, mediocres, ma<g ref="char:EOLhyphen"/>res, foeminas, in<g ref="char:EOLhyphen"/>fantes, pueros, adoleſcentes, Ju<g ref="char:EOLhyphen"/>venes, ſeniores, ſenes, in linguis omnibus, in mo<g ref="char:EOLhyphen"/>ribus omnibus, in artibus omni<g ref="char:EOLhyphen"/>bus, in profeſſionibus omnibus, in voluntatum &amp; con<g ref="char:EOLhyphen"/>ſciont tarum innumerabili varietate conſtitutos, &amp; ſi quid aliud differentiarum eſt in hominibus.</note> 
+                  <hi>[By all men we underſtand all kindes of men, divided by whatſoever diſtinctions, Kings or pri<g ref="char:EOLhyphen"/>vate perſons, noble or igno<g ref="char:EOLhyphen"/>ble, high or low, learned or unlearned, whole or ſick, wiſe, ſimple, fooliſh, rich, poore, indifferent, men, wo<g ref="char:EOLhyphen"/>men, babes, children, youths, old men, of all languages, of al diſpoſitions, of al trades, of all profeſsions, and accor<g ref="char:EOLhyphen"/>ding to their divers incli<g ref="char:EOLhyphen"/>nations, innumerable ways diverſified.]</hi>
+               </p>
+            </div>
+            <div n="3-4" type="articles">
+               <pb n="59" facs="tcp:169917:32"/>
+               <head>Third and fourth ar<g ref="char:EOLhyphen"/>ticle ſtated.</head>
+               <p>Co<g ref="char:cmbAbbrStroke">̄</g>cerning the third and fourth Article of Grace and Free<g ref="char:EOLhyphen"/>will,
+<note place="margin">The third and fourth Article ſtated.</note> conſider that Free<g ref="char:EOLhyphen"/>will doth denote for<g ref="char:EOLhyphen"/>mally the naturall facul<g ref="char:EOLhyphen"/>ty of mans will alone, yet becauſe the light of underſtanding muſt di<g ref="char:EOLhyphen"/>rect the will, which of it ſelfe is blinde, and the will illightned does command the affections and the other powers of ſenſe and motion as her ſervants, for this con<g ref="char:EOLhyphen"/>nexion
+<pb n="60" facs="tcp:169917:33"/>and dependance which is betwixt the will and all the naturall powers of the ſoule, the queſtion about the pow<g ref="char:EOLhyphen"/>er of all the naturall fa<g ref="char:EOLhyphen"/>culties of man in furthe<g ref="char:EOLhyphen"/>ring his owne ſalvation goes uſually under the title of Free will alone.</p>
+               <p>The queſtion of Free will, or of the power of nature, I mean of all the naturall faculties in the ſoule of man, whether underſtanding, will, af<g ref="char:EOLhyphen"/>fections, or any other in the matter of ſalva<g ref="char:EOLhyphen"/>tion, This queſtion hath many branches, but for ſhortnes we only touch
+<pb n="61" facs="tcp:169917:33"/>two heads therein: Firſt, how far nature can fur<g ref="char:EOLhyphen"/>ther grace &amp; ſalvation, next how far it can hin<g ref="char:EOLhyphen"/>der it: In the firſt head ſandry teach that nature alone without grace can ſave, that numbers with<g ref="char:EOLhyphen"/>out the knowledge of Chriſt by their obe<g ref="char:EOLhyphen"/>dience to the Law of Nature through the di<g ref="char:EOLhyphen"/>rection of right reaſon have been ſaved: Others aſcribe not ſalvation di<g ref="char:EOLhyphen"/>rectly to nature alone without grace, yet they make ſaving grace to depend upon nature, ſo that the right uſe of na<g ref="char:EOLhyphen"/>ture
+<pb n="62" facs="tcp:169917:34"/>doth draw by way of merit, at leaſt by way of infallible dependance the grace of Regenera<g ref="char:EOLhyphen"/>tion: Others goe not thus far in <hi>Pelagianiſme,</hi> yet they give too much to nature in the matter of ſalvation, they teach that ſin hath not taken away the power of the underſtanding and of the will of man to be<g ref="char:EOLhyphen"/>lieve and obey God, but only the exerciſe of that power, that the power of mans Soul to all gra<g ref="char:EOLhyphen"/>cious works is not dead but bound in fetters, far<g ref="char:EOLhyphen"/>der that in the very firſt
+<pb n="63" facs="tcp:169917:34"/>act of our co<g ref="char:cmbAbbrStroke">̄</g>verſion, not only in all poſterior acts of grace, God and Man, Nature and Grace doe concurre as two partiall cauſes, ſo that the whole effect of Converſion doth depend not only from Gods grace, but alſo the whole of it does flow from Man &amp; Nature, yea, that which maketh Grace efficaci<g ref="char:EOLhyphen"/>ous to Converſion and Salvation is not Grace but Nature alone; for the concurrence of Grace is oft (ſay they) alike in theſe who are converted, and thoſe
+<pb n="64" facs="tcp:169917:35"/>who are never conver<g ref="char:EOLhyphen"/>ted, in theſe who are ſa<g ref="char:EOLhyphen"/>ved, and thoſe who are damned, in both they put a degree of grace ſimply equall, ſo that the only difference which caſts the bal<g ref="char:EOLhyphen"/>lance, the only reaſon, why the ſame degree of grace which is efficaci<g ref="char:EOLhyphen"/>ous to convert and ſave one, yet is not efficaci<g ref="char:EOLhyphen"/>ous for theſe effects in another, is alone in na<g ref="char:EOLhyphen"/>ture, even in the free will of the one accept<g ref="char:EOLhyphen"/>ing and yielding to that degree of grace, which the free will of the o<g ref="char:EOLhyphen"/>ther
+<pb n="65" facs="tcp:169917:35"/>made inefficacious by its own reſiſting and rejection thereof.</p>
+               <p>In the ſecond head of natures power to hinder Grace and Salvation, the moſt common and infamous concluſion is, that the free wil of man not only hath power to reject and refuſe, to re<g ref="char:EOLhyphen"/>pell and fruſtrate, to o<g ref="char:EOLhyphen"/>vercome and make of none effect the moſt ef<g ref="char:EOLhyphen"/>ficacious motions of the regenerating Spirit of God, but alſo very oft does put this power in practice, hindring God
+<pb n="66" facs="tcp:169917:36"/>when he intends to con<g ref="char:EOLhyphen"/>vert and ſave, by its in<g ref="char:EOLhyphen"/>vincible perverſneſſe to obtaine that his graci<g ref="char:EOLhyphen"/>ous end and mercifull intention.</p>
+               <p>The errours of the firſt head the <hi>Arminians</hi> oft in word doe caſt them from themſelves upon the Papiſts, yet in very deed they ſtumble too often upon them all.</p>
+               <p>The errours of the ſecond head they deny not to be their Tenets: however for confutati<g ref="char:EOLhyphen"/>on
+<pb n="67" facs="tcp:169917:36"/>of all errours in both the heads let us con<g ref="char:EOLhyphen"/>firme theſe two propo<g ref="char:EOLhyphen"/>ſitions.</p>
+               <p>Firſt, neither free wil, nor any other naturall faculty in man hath any power at all to purchaſe either the beginning or midſt of perfection ei<g ref="char:EOLhyphen"/>ther of grace or ſalvati<g ref="char:EOLhyphen"/>on, but both grace and glory commeth alone from God that quick<g ref="char:EOLhyphen"/>ens nature, dead in ſin, and makes it to worke not in the ſtrength of it ſelf, but alone of grace.</p>
+               <pb n="68" facs="tcp:169917:37"/>
+               <p>Secondly, that as Na<g ref="char:EOLhyphen"/>ture cannot further grace nor ſalvation, ſo can it not hinder the Omnipotent power of the regenerating Spirit of God to call and con<g ref="char:EOLhyphen"/>vert, and ſave whom ever hee hath a purpoſe to call, convert, and ſave. For the full con<g ref="char:EOLhyphen"/>firmation of the firſt propoſition, ſee in Scri<g ref="char:EOLhyphen"/>pture theſe 3 grounds cleerly ſet downe.</p>
+               <p>Firſt,
+<note place="margin">Man by his free will is not able for any ſpiritual good.</note> That in no man by nature is any power at all to any ſpirituall good.</p>
+               <pb n="69" facs="tcp:169917:37"/>
+               <p>Secondly, That in e<g ref="char:EOLhyphen"/>very man by nature not only is a ſimple impo<g ref="char:EOLhyphen"/>tencie to good, but alſo an exceeding great in<g ref="char:EOLhyphen"/>clination to all ſpiritual evill.</p>
+               <p>Thirdly, What ever power to ſpiritual good, or what ever gracious operation is found in a<g ref="char:EOLhyphen"/>ny man, the only cauſe of that good is from God, who works it in man, and makes man to worke in the ſtrength not of humane Nature, but of divine Grace.</p>
+               <pb n="70" facs="tcp:169917:38"/>
+               <p>For the firſt, mans im<g ref="char:EOLhyphen"/>potency, ſee <hi>John</hi> 6.44. <hi>No man can come to mee except the Father draw him.</hi> Jer. 5.23. <hi>Can the</hi> Ethiop <hi>change his skin, or the Leopard his ſpots, then may yee alſo doe good, that are accuſtomed to doe evill,</hi> Here is mans impoten<g ref="char:EOLhyphen"/>cy to convert to God, or change his wicked na<g ref="char:EOLhyphen"/>ture, 1 <hi>Cor.</hi> 2.14. <hi>The na<g ref="char:EOLhyphen"/>turall man receives not the things of the Spirit of God,</hi> For <hi>they are fooliſh<g ref="char:EOLhyphen"/>neſſe to him, neither can he know them becauſe they are ſpiritually diſcerned. No man can ſay that Jeſus is
+<pb n="71" facs="tcp:169917:38"/>the Lord,</hi> 1 Cor. 12.3. 2 Cor. 3.5. <hi>Not that we are ſufficient of our ſelves to think any thing as of our ſelves, but our ſufficiencie is of God;</hi> here the power to underſtand or thinke any good is denied to man of himſelf, <hi>Mat.</hi> 12.34. <hi>O generation of vi<g ref="char:EOLhyphen"/>pers how can yee being evill ſpeak good things.</hi> 1 Cor. 14.3. <hi>No man can ſay, that Jeſus is the Lord, but by the Holy Ghoſt.</hi> Here holy and good ſpeeches are denied to bee in the power of nature, all power of good deeds is alſo removed, <hi>Math.</hi> 7
+<pb n="72" facs="tcp:169917:39"/>18. <hi>Acorrupt tree cannot bring forth good fruit,</hi> John 15.5. <hi>Without me yee can do nothing,</hi> Where<g ref="char:EOLhyphen"/>upon <hi>Auguſtine</hi> com<g ref="char:EOLhyphen"/>menting confounds <hi>Pe<g ref="char:EOLhyphen"/>lagius</hi> thus:
+<note n="i" place="margin">Quid dicitis, quid vos ipſos decipitis, non aſ<g ref="char:EOLhyphen"/>ſertores ſed praecipitateres liberi arbitrii ex alto elati<g ref="char:EOLhyphen"/>onis per inama praeſumptionis, in profunda ſubmerſionis, hom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nes ſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i placentes, mente corrupti, reprobi circa fidem, nempe vox veſtra eſt, quod homo ex ſeipſo facit juſtitiam, ſed veritas contradicit &amp; dicit Palme non poteſt fructum ferre a ſemetipſo, niſi manſerit in vite, Si eſt in vobis ullus ſenſus, horretc, qu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> enim à ſemet<g ref="char:EOLhyphen"/>ipſo fructum existimat ferre, in vite non est, qui in vite non eſt, in Ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſto non est, qui in Christo non eſt, Chriſtianus non eſt haec ſunt profunda ſubmerſionis veſtrae &amp; ne quiſquam putaret ſaliem parvum aliquem fructum poſſe à ſemetipſo ſe ferre, non ait quia ſine me pa<g ref="char:EOLhyphen"/>rum poteſtis facere, ſed nihil poteſtis facere, ſive ergo parum ſive multum, ſine illo fieri non poteſt, ſine quo nihil fieri poteſt.</note> 
+                  <hi>What ſay
+<pb n="73" facs="tcp:169917:39"/>you, why deceive you your ſelves, not maintainers but caſters downe of freewill from the heights of pride through the voids of preſum ption into drowning deeps, men pleaſing the<g ref="char:cmbAbbrStroke">̄</g>ſelvs of cor<g ref="char:EOLunhyphen"/>rupt minds, and concerning the faith reprobate, for it is your ſentence, that man of himſelfe does juſtice. But the truth contradicts and ſays the branch cannot bring forth fruit of it ſelfe, unleſſe it abide in the vine. If there be any ſenſe in you, bee amazed, for who ever thinks hee can bring forth fruit of himſelf, is not in the vine; who is not in the vine
+<pb n="72" facs="tcp:169917:40"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="73" facs="tcp:169917:40"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="74" facs="tcp:169917:41"/>is not in Chriſt; who is not in Chriſt is not a Chriſtian; Theſe are your drowning deeps, and leſt any ſhould think that at leſt he might of himſelfe bring forth ſome little fruit, hee ſayes not, without mee you can bring forth a little fruit, but you can doe nothing: Whether therefore it bee little or much, it cannot bee done without him, without whom nothing can be done.]</hi>
+               </p>
+               <p>This for our impo<g ref="char:EOLhyphen"/>tencie to all ſpirituall good.</p>
+               <pb n="75" facs="tcp:169917:41"/>
+               <p>For our perverſneſſe and proclivitie to all ſpirituall evill,
+<note place="margin">Mans will is perverſe and bent to all evil.</note> ſee <hi>Gen.</hi> 6.5. <hi>God ſaw that every ima<g ref="char:EOLhyphen"/>gination of mans heart was only evill continually,</hi> Jer. 7.5. <hi>The heart is de<g ref="char:EOLhyphen"/>ceitfull above all things, and deſperatly wicked who can know it,</hi> Rom. 7.14.18 <hi>I know that in mee that is in my fleſh, dwelleth no good, for I am ſold under ſin,</hi> Epheſ. 2.5. <hi>Wee were dead in ſins,</hi> and 5.8. <hi>Yee were ſometimes darkneſſe,</hi> Ezek. 48.4. <hi>I know that thou art obſtinate, and thy neck is as an iron ſinew, and thy brow is braſſe,</hi> Za<g ref="char:EOLhyphen"/>chary
+<pb n="76" facs="tcp:169917:42"/>7.12. <hi>They made their heart as an adamant ſtone, leſt they ſhould heare the Law.</hi>
+               </p>
+               <p>The third ground,
+<note place="margin">All good in man commeth only from grace.</note> that God alone works all our works in us, that our Illumination, Con<g ref="char:EOLhyphen"/>verſio<g ref="char:cmbAbbrStroke">̄</g>, &amp;c. flows fro<g ref="char:cmbAbbrStroke">̄</g> him alone, ſee, <hi>Epheſ.</hi> 2.10. <hi>Wee are his workmanſhip created in Chriſt Ieſus to good works.</hi> Pſal. 5.10. <hi>Create in me a clean heart, O God, and renew a right ſpirit with in me.</hi> 2 <hi>Cor.</hi> 4.6. <hi>God who commanded the light to ſhine out of dark<g ref="char:EOLhyphen"/>neſſe, hath ſhined in our
+<pb n="77" facs="tcp:169917:42"/>hearts.</hi> Phil. 2.13. <hi>It is God who worketh in us both to will and to do of his own good pleaſure.</hi> Ezek. 36.26. <hi>A new heart will I give you, and a new ſpirit will I put within you, and I will take away the ſtony heart out of your fleſh, and I will give you an heart of fleſh, and I wil put my ſpirit within you, and cauſe you to walk in my ſtatutes,</hi> 1 Chron. 4.7. <hi>Who maketh thee to differ from another, and what haſt thou that thou haſt not received? Why doeſt thou glory, as if thou hadſt not received it.</hi>
+               </p>
+               <pb n="78" facs="tcp:169917:43"/>
+               <p>We may ſee this do<g ref="char:EOLhyphen"/>ctrine of Scripture a<g ref="char:EOLhyphen"/>vowed often by all Chriſtian Writers eſpe<g ref="char:EOLhyphen"/>cially by <hi>Auguſtine</hi> and <hi>Bernard,</hi> againſt the <hi>Pe<g ref="char:EOLhyphen"/>lagians,</hi> Heare ſome few of their ſayings. The 1 tels us, [
+<note n="k" place="margin">
+                     <hi>Libero arbi<g ref="char:EOLhyphen"/>trio male utens homo &amp; ſe per<g ref="char:EOLhyphen"/>didit &amp; ipſum, nameum libero peccaretur arbitrio a<g ref="char:EOLhyphen"/>miſſum eſt liberum arbitrium. Liberum arbi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rium ad diligendum Deum primi peccati granditate perdidimus, magnas liberi Arbitrii vires homo cum crearetur, ac<g ref="char:EOLhyphen"/>cepit, ſed peccando amiſit, per velle malumrecte perdi<g ref="char:EOLhyphen"/>dit poſſe bonum, qui per poſſe bonum, libere elegit velle malum. Peccato</hi> Adae <hi>liberum arbitrium de hominum natura periiſſe non dicimus ſed ad peccandum valere in hominibus ſubditis diabolo, ad bene autem pieque vi<g ref="char:EOLhyphen"/>vendum non valere, niſi ipſa voluntas hominis Deigra<g ref="char:EOLhyphen"/>tia fuerit liberata ut velimus ſine nobis operatur, cum volumus &amp; ſic volumus ut faciamus, nobiſcum coopera<g ref="char:EOLhyphen"/>tur; tamen ſine illo vel operante ut velimus vel coope rante cum volumus ad bona pietatis opera nihil va<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>mus. Certum eſt nos velle cum volumus, ſed ille facit ut velimus de qùo dictum eſt, Deu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>in nobis operatur velle, nos operamur ſed Deus in nobis operatur &amp; operari hoc nobis expedit &amp; credere &amp; dicere, hoc eſt pium hoc eſt verum, ut ſit humilis &amp; ſubmiſſa confeſſio &amp; detur totum Deo. Tutiores vivimus, ſi demus totum Deo, non autem nos illi ex parte &amp; nobis ex parte committimus.</hi> Bernard. <hi>Non partim gratia &amp; partim liberum arbi<g ref="char:EOLhyphen"/>trium, ſed totum quidem hoc, &amp; totum illa ſed ut to<g ref="char:EOLhyphen"/>tum in illo ſit &amp; totum ex illa. Quid igitur ais, agit liberum arbitrium. Reſpondeo breviter, ſalvatur, tolle liberum arbitrium non erit quod ſalvetur, tolle gratiam non erit unde ſalvetur, opus hoc ſine duobus eſſe non potest, uno à quo ſit, altero in quo vel cui ſit. Deus au<g ref="char:EOLhyphen"/>tor eſt ſalutis liberum arbitrum tantum capax eſt dare illam, niſi Deus, nec capere valet niſi liberum arbi<g ref="char:EOLhyphen"/>trium.</hi>
+                  </note> Man abuſing
+<pb n="79" facs="tcp:169917:43"/>free will loſt both him<g ref="char:EOLhyphen"/>ſelfe and it. For when by free will ſinne came, free will was loſt: through the greatneſſe of the firſt ſin wee loſt freedome of will to
+<pb n="80" facs="tcp:169917:44"/>love God: Man in his Creatio<g ref="char:cmbAbbrStroke">̄</g> received a great ſtrength of free will, but by ſin did loſe it, by wil<g ref="char:EOLhyphen"/>ling of evill, juſtly have we loſt power to good, who by power to good freely did chuſe to will evil: We ſay not that by <hi>Adams</hi> ſinne free will is loſt, but that in men ſubject to Satan, it ſerves only for ſinning, and is not able to make any live well and holi<g ref="char:EOLhyphen"/>ly, except the will of man it ſelf by the grace of God bee made free: God without us makes is to will, when we wil,
+<pb n="81" facs="tcp:169917:44"/>and will ſo that we doe hee works with us, yet without him both ma<g ref="char:EOLhyphen"/>king us to will and wor<g ref="char:EOLhyphen"/>king with us when wee will, we have no power to do any good or pious work: It is certain we will, when we will, but hee makes us to will, of whom it is ſaid, God works in us the will: Wee worke but God in us works the work: It is good for us both to be<g ref="char:EOLhyphen"/>lieve and ſpeak thus, this is piety, this is truth, that there may be a humble and ſubmiſsive confeſ<g ref="char:EOLhyphen"/>ſion, and all be given to
+<pb n="82" facs="tcp:169917:45"/>God: Wee live more ſafely, when wee give all to God and doe not commit our ſelves part<g ref="char:EOLhyphen"/>ly to him, and partly to our ſelves.</p>
+               <p>
+                  <hi>Bernard.</hi> Not partly grace and partly free will, but both the one and the other is all; But ſo that all is done in the one, and all from the o<g ref="char:EOLhyphen"/>ther: What then wilt thou ſay does free will, I anſwer ſhortly, it is ſa<g ref="char:EOLhyphen"/>ved, take away free will and there ſhall bee no<g ref="char:EOLhyphen"/>thing which can bee ſa<g ref="char:EOLhyphen"/>ved, take away grace and there ſhall bee no<g ref="char:EOLhyphen"/>thing
+<pb n="83" facs="tcp:169917:45"/>whereby to ſave. This work without two cannot bee, the one in which, the other from which it may be done. God is author of ſalva<g ref="char:EOLhyphen"/>tion, free will only the ſubject therof, none can give it but God, nothing can receive it but free will.]</p>
+               <p>Our ſecond propoſi<g ref="char:EOLhyphen"/>tion,
+<note place="margin">The efficacious grace of God in mans con<g ref="char:EOLhyphen"/>verſion is in<g ref="char:EOLhyphen"/>ſuperable by mans will.</note> which the <hi>Armini<g ref="char:EOLhyphen"/>ans</hi> profeſſe moſt to op<g ref="char:EOLhyphen"/>poſe, to wit, that free wil nor naturall corrup<g ref="char:EOLhyphen"/>tion does never, &amp; is ne<g ref="char:EOLhyphen"/>ver able to overcom the motions of the Spirit of God, when he purpoſes
+<pb n="84" facs="tcp:169917:46"/>to call efficaciouſly and convert, <hi>John</hi> 6.37. <hi>All that the Father giveth me ſhall come to mee.</hi> 8.45. <hi>Every one that hath heard and learned of the Father, commeth unto me.</hi> Rom. 8.30. <hi>Whom hee hath called, them he alſo juſtified;</hi> alſo who have efficacious grace theſe have the ſpirit of Chriſt, and who have Chriſts Spi<g ref="char:EOLhyphen"/>rit are Chriſts mem<g ref="char:EOLhyphen"/>bers.</p>
+               <p>Againe, not only the will of man doth ever obey Gods efficacious calling, but it muſt doe
+<pb n="85" facs="tcp:169917:46"/>ſo, for the efficacie of Gods call ſtands in the removing of all the per<g ref="char:EOLhyphen"/>verſnes and ſtubbornes that is in the will, in ma<g ref="char:EOLhyphen"/>king the heart new, ſoft and pliable to the Call, in making us will and believe, <hi>Phil.</hi> 1.29. <hi>Vnto you it is given not only to believe but to ſuffer.</hi> Phil. 2 13. <hi>God worketh in you to will and to doe.</hi> Ezek. 36.26. <hi>A new heart I will give to you, a new ſpirit will I put in you, I will take away the ſtony heart, and give you a heart of fleſh.</hi>
+               </p>
+               <p>Thirdly, GOD in
+<pb n="86" facs="tcp:169917:47"/>mans converſion em<g ref="char:EOLhyphen"/>ployes his ſtrong and mighty power which the Devill, the World, and the Fleſh cannot o<g ref="char:EOLhyphen"/>vercome being the far ſtronger, <hi>Epheſ.</hi> 1.19. <hi>That yee may know the ex<g ref="char:EOLhyphen"/>ceeding greatneſſe of his power to us ward, who be<g ref="char:EOLhyphen"/>lieve, according to the wor<g ref="char:EOLhyphen"/>king of his mighty power, which he wrought in Chriſt when hee raiſed him from the dead.</hi> 1 John 4.4. <hi>Yee have overcome them for greater is hee that is in you, then hee that is in the world.</hi> Matth. 12.29. <hi>How can one enter into a ſtrong
+<pb n="87" facs="tcp:169917:47"/>mans houſe and ſpoile his goods, except he firſt binde the ſtrong man, and then he will ſpoyle his houſe.</hi>
+               </p>
+               <p>Fourthly, The Crea<g ref="char:EOLhyphen"/>ture cannot hinder its own Creation, nor the dead man his owne quickning, nor the child his own generation, nor the darkneſſe its owne illumination, nor the white paper the writing on it ſelfe, nor the blind eye the reſtitution of its light, nor the weake perſon the draught of a ſtrong hand: Now Scri<g ref="char:EOLhyphen"/>pture oft compares the
+<pb n="88" facs="tcp:169917:48"/>action of the Spirit con<g ref="char:EOLhyphen"/>verting a ſoul, to a crea<g ref="char:EOLhyphen"/>tion, a new life, a rege<g ref="char:EOLhyphen"/>neration, an illuminati<g ref="char:EOLhyphen"/>on, &amp;c.</p>
+               <p>Fifthly, if the will of man could overcome the efficacious working of the Spirit of God, then could the Decree of our Election and Sal<g ref="char:EOLhyphen"/>vation be made altoge<g ref="char:EOLhyphen"/>ther uncertain, and oft be made null by the re<g ref="char:EOLhyphen"/>pugnance of mans will, and the victory of our wickedneſſe over the beſt, and moſt effi<g ref="char:EOLhyphen"/>cacious will of God,
+<pb n="89" facs="tcp:169917:48"/>but this were againſt Scripture, <hi>Eſay</hi> 14.24. <hi>The Lord of Hoſts hath ſworn, ſurely as I have thought, ſo ſhall it come to paſſe, and as I have pur<g ref="char:EOLhyphen"/>poſed ſo ſhall it ſtand, the Lord of Hoſts hath pur<g ref="char:EOLhyphen"/>poſed, and who ſhall diſa<g ref="char:EOLhyphen"/>null it.</hi> 2 Chron. 20.6. <hi>In thy hand is there no power?</hi> So that none <hi>is able to withſtand thee.</hi> Rom. 9.29. <hi>Who hath reſiſted his will?</hi> 8.30. <hi>Whom he hath predeſtinated, them he alſo glorified.</hi>
+               </p>
+               <p>The Fathers go here the Scriptures way: have
+<pb n="90" facs="tcp:169917:49"/>ſome paſſages of <hi>Au<g ref="char:EOLhyphen"/>guſtine</hi> cited by <hi>Bellar<g ref="char:EOLhyphen"/>mine</hi> himſelfe; [
+<note n="m" place="margin">Deo volenti <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lvum facere <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ullum hominum <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſiſtit arbitrium <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ic enim velle <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut nolle <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n vo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>entis aut nolen<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is est poteſtate <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut divinam vo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>untatem non impediat, nec <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſupereſt poteſta<g ref="char:EOLhyphen"/>tem, non eſt du<g ref="char:EOLhyphen"/>hitandum vo<g ref="char:EOLhyphen"/>luntati Dei vo luntatem huma<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am reſiſtere non poſſe, provi<g ref="char:EOLhyphen"/>ſum eſt infirmi<g ref="char:EOLhyphen"/>tati voluntatis humanae ut inde<g ref="char:EOLhyphen"/>clinabiliter &amp; inſeparabiliter ageretur &amp; ideo quantumvis in<g ref="char:EOLhyphen"/>firma non defice<g ref="char:EOLhyphen"/>ret, nec adverſi<g ref="char:EOLhyphen"/>tate aliqua fran<g ref="char:EOLhyphen"/>geretur.</note> 
+                  <hi>No will of any man reſiſts God when hee hath a minde to ſave. For to will or nill is ſo in the power of him that wils or nils that they doe not hinder the will of God, nor overcome his power: doubtleſſe, the will of man is not able to reſiſt the will of God, God has ſo provi<g ref="char:EOLhyphen"/>ded for the weakneſſe of mans will, that it ſhould be led indeclinably and irreſi<g ref="char:EOLhyphen"/>ſtably ſo that how weake ſo<g ref="char:EOLhyphen"/>ever it is, it ſhould not fall, nor by any oppoſition be bro<g ref="char:EOLhyphen"/>ken.</hi>
+               </p>
+            </div>
+            <div n="5" type="article">
+               <pb n="91" facs="tcp:169917:49"/>
+               <head>The fifth Article ſtated.</head>
+               <p>THe queſtion of perſeverance is ſta<g ref="char:EOLhyphen"/>ted diverſly,
+<note place="margin">The fift Article ſtated.</note> the <hi>Armi<g ref="char:EOLhyphen"/>nians</hi> now and many Je<g ref="char:EOLhyphen"/>ſuits do maintain a poſ<g ref="char:EOLhyphen"/>ſibility to fall away from grace totally and finally in all perſons ſo long as they live, the moſt of the Papiſts grant that thoſe who are elected cannot fall away finally, but after all interruptions there muſt bee a returne to grace, and that in them
+<pb n="92" facs="tcp:169917:50"/>there is a neceſsity of ſalvation: yet they ſay that many of the rege<g ref="char:EOLhyphen"/>nerate, and truly faith<g ref="char:EOLhyphen"/>full, may fall away e<g ref="char:EOLhyphen"/>ven finally.</p>
+               <p>There is a kinde of <hi>Arminians,</hi> who follow <hi>Joannes Gerhardus Voſ<g ref="char:EOLhyphen"/>ſius,</hi> who put a degree of faith and grace, from which there is no defi<g ref="char:EOLhyphen"/>ciency, albeit from the eſtate of faith eſſential<g ref="char:EOLhyphen"/>ly true, and from rege<g ref="char:EOLhyphen"/>neration they teach fal<g ref="char:EOLhyphen"/>ling totally and finally; againſt all theſe wee teach that God makes
+<pb n="93" facs="tcp:169917:50"/>to perſevere and goe on to the end, not only the elect but all the faithful, and that not only thoſe who are rooted in a high and excellent de<g ref="char:EOLhyphen"/>gree of faith, but all whoſoever have the leaſt meaſure of true ſa<g ref="char:EOLhyphen"/>ving faith, who are rege<g ref="char:EOLhyphen"/>nerate, juſtified, ſancti<g ref="char:EOLhyphen"/>fied, in all theſe God keeps in ſome heat in the ſmoaking flax, puts under his hand when they fall, raiſes them e<g ref="char:EOLhyphen"/>ver up again, and leaves not the building he hath once grounded till hee
+<pb n="94" facs="tcp:169917:51"/>hath crowned it with the Capſtone.</p>
+               <p>That thus it is,
+<note place="margin">The neceſſity of perſeve<g ref="char:EOLhyphen"/>rance proved from <hi>Mat.</hi> 24.29.</note> many Scriptures make evident Matth. 24.29. <hi>Hee ſhall ſhew great ſignes and won<g ref="char:EOLhyphen"/>ders that they ſhall ſeduce, if it were poſsible, the very elect,</hi> here the Elect can<g ref="char:EOLhyphen"/>not poſsibly be ſedu<g ref="char:EOLhyphen"/>ced, all the wonders of Antichriſt, the moſt pregnant meanes that men and Devils can uſe to make the elect fall a<g ref="char:EOLhyphen"/>way doe not prevail, for it is not poſsible that ſuch ſhould be ſo ſedu<g ref="char:EOLhyphen"/>ced
+<pb n="95" facs="tcp:169917:51"/>as to fal clean away from Chriſt.</p>
+               <p>Jer. 32.39.
+<note place="margin">The ſecond from <hi>Ier.</hi> 32.39</note> 
+                  <hi>I will give them one heart and one way, that they may feare me for ever, and I will make an everla<g ref="char:EOLhyphen"/>ſting covenant with them, that I will not turne away from them to do them good, but I will put my feare in their heart, that they ſhall not depart from me.</hi> Here God promiſes to all the faithfull, to all thoſe with whom the new Covenant is made, that they ſhall get an heart from God to feare him, not for a time but for
+<pb n="96" facs="tcp:169917:52"/>ever, that hee will make with them an everlaſt<g ref="char:EOLhyphen"/>ing Covenant that ſhall never be broken on ei<g ref="char:EOLhyphen"/>ther ſide, he aſſureth not only for himſelfe, that hee ſhall never change, but for them, that hee will plant his feare in their heart in ſuch a meaſure that they ſhall ſtick to God, not for a time, but ſo, that they ſhall never depart from him.</p>
+               <p>
+                  <hi>John</hi> 10.
+<note place="margin">The third from <hi>John</hi> 10.</note> 
+                  <hi>But ye believe not, becauſe yee are not of my ſheep, my ſheep heare my voice, and J give to them eternall Life, and they ſhall
+<pb n="97" facs="tcp:169917:52"/>never periſh, neither ſhall any plucke them out of my Fathers hand.</hi> Behold, Chriſts ſheepe are thoſe who believe, Chriſt aſ<g ref="char:EOLhyphen"/>ſureth them all of Life eternall, aſſuredly they ſhall never periſh be<g ref="char:EOLhyphen"/>cauſe they are kept by his ſtrong hand, the Fa<g ref="char:EOLhyphen"/>ther hath put them into the hand of his Son to be kept, yea, the Fa<g ref="char:EOLhyphen"/>thers own hand is about them, ſo that they can<g ref="char:EOLhyphen"/>not periſh except there ariſe ſome enemy ſtron<g ref="char:EOLhyphen"/>ger then God the Fa<g ref="char:EOLhyphen"/>ther, to ſpoyl him of his goods.</p>
+               <pb n="98" facs="tcp:169917:53"/>
+               <p>1 John 2.19.
+<note place="margin">The fourth from 1 <hi>Joh.</hi> 2.19.</note> 
+                  <hi>They went out from us, but they were not of us, for if they had been of us, without doubt they had continued with us, but they went out that it might be manifeſt that they were not of us.</hi> Who are they that doe not perſe<g ref="char:EOLhyphen"/>vere, who fall away from Truth and Grace; theſe who were never gracious, even before their Apoſtaſie, for if ever they had beene in the number of Chriſts faithfull members, no doubt they would have continued ſo for ever. But God let them goe
+<pb n="99" facs="tcp:169917:53"/>and depart that hee might make manifeſt to the World, that Apoſtates even before the appearing of their Apoſtacie were never ſound, never rooted, nor builded by faith on the rock, for if they had beene ſuch, when all ſtormes of temptations had blown, they would have ſtood firme, and the Ports of hell ſhould not have prevailed a<g ref="char:EOLhyphen"/>gainſt them, they ſhould have been as Mount <hi>Si<g ref="char:EOLhyphen"/>on,</hi> which never is re<g ref="char:EOLhyphen"/>moved but abideth for ever.</p>
+               <pb n="100" facs="tcp:169917:54"/>
+               <p>Epheſ.
+<note place="margin">The fift from <hi>Epheſ.</hi> 1.13.</note> 1.13. <hi>In whom after that yee believed, yee were ſealed with that holy Spirit of promiſe, which is that earneſt of your inheri<g ref="char:EOLhyphen"/>tance:</hi> Here al the faithful get the Spirit of Chriſt, as himſelfe ſayes to be their Comforter, and to abide with them for e<g ref="char:EOLhyphen"/>ver, to be a ſeale, and to aſſure them that they are Gods, that makes them call God <hi>Abba,</hi> Father, that witneſſeth to them that they are the children of God, yea, Gods heires, and Co<g ref="char:EOLhyphen"/>heirs with Chriſt, which is their earneſt and firſt
+<pb n="101" facs="tcp:169917:54"/>fruits of life eternall, which gives them full aſſurance of hope, an<g ref="char:EOLhyphen"/>chors their ſoule with<g ref="char:EOLhyphen"/>in the vail, and fils them with joy unſpeakable and glorious.</p>
+               <p>Among the infinite paſſages of St. <hi>Auguſtine</hi> for our tenet, take but one, <hi>de corrept. &amp; gratia, cap.</hi> 12. [
+<note n="n" place="margin">Primo itaque homini qui in eo bono in quo fa<g ref="char:EOLhyphen"/>ctus erat rectus acceperat poſſe non peccare, poſſe non mori, poſſe ipſum bonum non deſerere, da<g ref="char:EOLhyphen"/>tum est adjutorium perſeverantiae, ſine quo per liberum arbitrium perſeverare non poſſet: Nunc vero ſanctis in regnum Dei per gratiam praedeſtinatis non tantum tale adjutorium perſeverantiae datur ſed tale ut ipſis perſeverantia donetur, non ſolum ut ſine iſto dono perſeverantes eſſe non poſſint, verum etiam ut per hoc donum non niſi perſeverances ſint, non ſolum enim di<g ref="char:EOLhyphen"/>xit, ſine me nihil poteſtis facere, verum etiam dixit, non vos me elegistis, ſed ego vos elegi &amp; poſui vos, ut eatis &amp; fructum feratis &amp; fructus vester maneat; quibi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> verbis non ſolum juſtitiam, ſed &amp; in ea perſeverantiam ſe dediſſe monſtravit: Chriſto enim ſic cos ponente ut eant &amp; fructum ferant &amp; fructus corum maneat, quis audeat dicere forſitan non manebunt, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne poenitentia e<g ref="char:EOLhyphen"/>nim ſunt donum &amp; vocatio Dei, pro his interpellant<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Chriſto ne deficiat fides eorum, ſine dubio non deficie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> uſquein finem, ac per hoc perſeverabit uſque in finem nec niſi manentem vitae hujus inveniet finis: Major quippe libertas neceſſaria adverſus tot &amp; tantas tenta<g ref="char:EOLhyphen"/>tiones, quae in Paradiſo non fuerunt dono perſeveran<g ref="char:EOLhyphen"/>tiae munita atque firmata, ut cum omnibus amoribus terroribus, erroribus ſuis, vincatur hic mundus, q<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſancti cuncta minantia, cuncta invitantia, cuncta <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ruentia ſuperarent.</note> Unto the firſt
+<pb n="102" facs="tcp:169917:55"/>man who in that good eſtate wherein hee was created righteous, had received a power not to ſin, not to die; a power not to fall from his good eſtate, to him was
+<pb n="103" facs="tcp:169917:55"/>given the helpe of Per<g ref="char:EOLhyphen"/>ſeverance: not ſuch a gift whereby hee ſhould perſevere, but ſuch with out the which hee was not able by his free will to perſevere. But now unto the Saints, by the grace of God predeſti<g ref="char:EOLhyphen"/>nated unto the King<g ref="char:EOLhyphen"/>dome of God, not only ſuch a helpe of perſeve<g ref="char:EOLhyphen"/>rance is given, but ſuch, that perſeverance it ſelf is given to them, not on<g ref="char:EOLhyphen"/>ly ſo that without that gift they cannot perſe<g ref="char:EOLhyphen"/>vere, but alſo that through that gift they cannot but perſevere:
+<pb n="104" facs="tcp:169917:56"/>for he has not only ſaid, without mee yee can do nothing, but hee ſaith alſo, you have not cho<g ref="char:EOLhyphen"/>ſen me, but I have cho<g ref="char:EOLhyphen"/>ſen you, and appoin<g ref="char:EOLhyphen"/>ted you that you ſhould goe on and beare fruit, and that your fruit ſhould remain; in which words he ſhews that he has not only given righ<g ref="char:EOLhyphen"/>teouſneſſe but perſeve<g ref="char:EOLhyphen"/>rance therein: for Chriſt having ſo ſet them that they go and bring forth fruit, and their fruit a<g ref="char:EOLhyphen"/>bides, who dare ſay perchance they ſhal not continue, for without
+<pb n="105" facs="tcp:169917:56"/>repentance are the gifts and calling of God, Chriſt praying for them that their faith fail not, with<g ref="char:EOLhyphen"/>out doubt it ſhall not fail to the end, and ſo ſhall perſevere to the end, and the end of their life ſhall finde it remayning, for now a greater liberty is needful againſt ſo many and ſo great temptati<g ref="char:EOLhyphen"/>ons, which were not in Paradiſe, being guarded with the gift of perſeve<g ref="char:EOLhyphen"/>rance, that this world with all his luſts, ter<g ref="char:EOLhyphen"/>rours, errours, might be overcome, &amp; the Saints prevaile againſt all
+<pb n="106" facs="tcp:169917:57"/>threats, all allurements, all power]</p>
+               <p>The current of Scrip<g ref="char:EOLhyphen"/>ture and Fathers runs ſo ſtraight againſt the to<g ref="char:EOLhyphen"/>tall and finall apoſtacie of the Saints, that <hi>Ar<g ref="char:EOLhyphen"/>minius</hi> for all his bold<g ref="char:EOLhyphen"/>neſſe durſt not, ſo long as hee lived, ſet his breſt againſt that ſtream, albeit his Schol<g ref="char:EOLhyphen"/>lers ſince have mainly ſet themſelves to evert this Article, which is the chiefe ground of all the comfort that the ſoul of man hath in this miſerable pilgrimage.</p>
+               <p>Of all their contrary argumentations conſi<g ref="char:EOLhyphen"/>der
+<note place="margin">All baptized Infants are not regenerate.</note>
+                  <pb n="107" facs="tcp:169917:57"/>but one: Milions of theſe who were bapti<g ref="char:EOLhyphen"/>zed in their infancy fall away finally and to<g ref="char:EOLhyphen"/>tally, but all theſe who were baptized in their infancy were truly regenerate, ſanctified, juſtified, and put in the ſtate of ſalvation, <hi>Ergo,</hi> millions of theſe who were truly regenerate, juſtified, ſanctified, and put in the ſtate of ſalva<g ref="char:EOLhyphen"/>tion, fall away totally and finally.</p>
+               <p>In this Popiſh argu<g ref="char:EOLhyphen"/>ment the <hi>Arminians</hi> tri<g ref="char:EOLhyphen"/>umphed at the begin<g ref="char:EOLhyphen"/>ning, as our men do yet, but after a little triall
+<pb n="108" facs="tcp:169917:58"/>both Papiſts and <hi>Armi<g ref="char:EOLhyphen"/>nians,</hi> finde it ſo fooliſh and impertinent that long ago they have caſt it away.</p>
+               <p>It is eaſie to ſhew the falſity of the <hi>Minor</hi> that al Baptized Infants are truly regenerate, &amp;c. Scriptures, Fathers, Schoolmen, are all to the contrary, but lea<g ref="char:EOLhyphen"/>ving theſe I only ſhew that this aſſertion is a<g ref="char:EOLhyphen"/>gainſt the <hi>Scottiſh</hi> Con<g ref="char:EOLhyphen"/>feſſion; the twenty fifth Article reſtifies that the Reprobate only doth communicate in the out<g ref="char:EOLhyphen"/>ward benefits of the Sa<g ref="char:EOLhyphen"/>craments,
+<pb n="109" facs="tcp:169917:58"/>that they get no fruit of Chriſts death, that in this life their ſins are not forgi<g ref="char:EOLhyphen"/>ven them, that theſe bleſsings belong only to the Elect, that the Re<g ref="char:EOLhyphen"/>probate at their beſt are but chaff, and at no time are good wheate, who therefore avow that the Reprobate ſome<g ref="char:EOLhyphen"/>times, to wit, in their infancy are truly regene rate, juſtified, ſanctified; who avow that Repro<g ref="char:EOLhyphen"/>bates get many fruits of Chriſts death and their Sinnes ſome times forgiven them, they contradict cleerely our
+<pb n="110" facs="tcp:169917:59"/>confeſſion, yea almoſt al the confeſsions of the reformed Churches. If they will believe their good friend D. <hi>Francis White</hi> hee will aſſure them that none but Pa<g ref="char:EOLhyphen"/>piſts and Lutherans will affirm reprobate infants by baptiſme to be rege<g ref="char:EOLhyphen"/>nerate.</p>
+               <p>How farr the chiefe Arminian tenets are contrary to Scripture I I have ſhewn;
+<note place="margin">Arminianiſme is contrary to the Confeſſion of the Church of <hi>Scotland.</hi>
+                  </note> Conſider in a few lines how much they are oppoſite to the Confeſsion of our Kirk, and ſo I cloſe. They teach that our E<g ref="char:EOLhyphen"/>lection is of Faith,
+<pb n="111" facs="tcp:169917:59"/>Works, Perſeverance, as antecedent either Cauſes or Conditions, or at leaſt Qualities fore ſeen in us. Our Confeſ<g ref="char:EOLhyphen"/>ſion Article 8. ſayes that God hath choſen us of meere grace, that faith to believe in <hi>Chriſt</hi> and all grace we loſt in <hi>Adam,</hi> is given us after our Election.</p>
+               <p>Again, they teach that Chriſt died for all, that in death he ſtood in the place of all without di<g ref="char:EOLhyphen"/>ſtinction of elect and re<g ref="char:EOLhyphen"/>probate, that all have the benefit of his death. Our Confeſsion ſayes, Art. 8. that Chriſt ſuffe<g ref="char:EOLhyphen"/>red
+<pb n="112" facs="tcp:169917:60"/>for us, that is the e<g ref="char:EOLhyphen"/>lect, of whom alone the whole Article ſpeaketh: Alſo that the benefits which the elect have common with the re<g ref="char:EOLhyphen"/>probate are but their Creation, no ways their Redemption and their Adoption thereby to be the ſons of God: And in the 25 Article it is ſaid, that the Reprobates have no benefit of Chriſts Death, Reſurre<g ref="char:EOLhyphen"/>ction, or Aſcenſion.</p>
+               <p>Laſtly, they teach that many of Chriſts faith<g ref="char:EOLhyphen"/>full members fall away and loſe not only all grace but ſalvation it
+<pb n="113" facs="tcp:169917:60"/>ſelfe. Our Confeſsion Art. 25. contradicts, af<g ref="char:EOLhyphen"/>firming, that all the faithfull continue in the eſtate of Juſtification, that albeit their ſins be great, yet they are not imputed but covered with Chriſts righteouſ<g ref="char:EOLhyphen"/>neſſe.</p>
+               <p>Again it is one of the faithfuls priviledges to goe on conſtantly to the end, till they bee con<g ref="char:EOLhyphen"/>formed to Chriſts glo<g ref="char:EOLhyphen"/>rious bodie. And in the 21 Article, that the faithfull in ſuch a man<g ref="char:EOLhyphen"/>ner become fleſh of Chriſts fleſh, and bone of his bone, that hee a<g ref="char:EOLhyphen"/>bides
+<pb n="114" facs="tcp:169917:61"/>in them and they in him for ever, no leſſe then the God-head a<g ref="char:EOLhyphen"/>bides in the manhood of Chriſt, giving to it life and Immortality.</p>
+               <p>Our Confeſsion croſ<g ref="char:EOLhyphen"/>ſeth their Doctrine of free will, juſtification &amp; other their popiſh er<g ref="char:EOLhyphen"/>rours more cleerly, but with thoſe I doe not meddle leſt by further prolixity I ſhould lo<g ref="char:cmbAbbrStroke">̄</g>ger with-hold ſo great an Aſſembly from their moſt weighty Affaires.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:169917:61"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
